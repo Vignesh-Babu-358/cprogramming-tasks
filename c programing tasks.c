@@ -119,7 +119,7 @@ Task 9:
 main()
 {
    int i,j,r;
-   printf("Enter the no.of.rows);
+   printf("Enter the no.of.rows");
    scanf("%d",&r);
    for(i=r;i>=1;--i)
 {
