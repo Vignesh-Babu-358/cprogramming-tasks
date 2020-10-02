@@ -8,7 +8,7 @@ main()
    double ph;
    printf("\nEnter your name,age and phone number\n");
    scanf("%s %d %lf",name,&age,&ph);
-   printf("\n Name:%s \n Age:%d \n Phonenumber:%lf",name,age,ph);
+   printf("\n Name:%s \n Age:%d \n Phone Number:%lf",name,age,ph);
 }
 
 Task 2:
